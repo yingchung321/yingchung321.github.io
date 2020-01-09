@@ -1,0 +1,115 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yingchung_.github.io" resolutions="1x" timestamp="1578584982191">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3946026178" ref="index"/>
+    <file name="untitled-5.css" crc="210618689" ref="untitled-5"/>
+    <file name="untitled-6.css" crc="264874522" ref="untitled-6"/>
+    <file name="untitled-2.css" crc="3773296453" ref="untitled-2"/>
+    <file name="untitled-7.css" crc="56295284" ref="untitled-7"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2:untitled-5:untitled-6:untitled-7"/>
+    <file name="museutils.js" crc="340535759" ref="index:untitled-2:untitled-5:untitled-6:untitled-7"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-2:untitled-5:untitled-6:untitled-7"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:untitled-2:untitled-5:untitled-6:untitled-7"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:untitled-2:untitled-5:untitled-6:untitled-7"/>
+    <file name="require.js" crc="7928878" ref="index:untitled-2:untitled-5:untitled-6:untitled-7"/>
+    <file name="webpro.js" crc="4059564322" ref="untitled-5:untitled-7"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="untitled-5:untitled-7"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="untitled-5:untitled-7"/>
+    <file name="touchswipe.js" crc="4075097462" ref="untitled-5:untitled-7"/>
+  </folder>
+  <folder name="images">
+    <file name="nr9aopbjqbq5n1dkzwvilq_thumb_7.jpg" crc="256794826" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u371-4-a.png" crc="3831505642" ref="index"/>
+    <file name="u378-4.png" crc="3783817366" ref="index"/>
+    <file name="u384-4.png" crc="429314076" ref="index"/>
+    <file name="u443-5.png" crc="4157775394" ref="untitled-2"/>
+    <file name="4b7d6e7164b1cdbb70f6a4330f272f17.jpg" crc="3892277101" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="0001 (1).jpg" crc="353512641" ref="untitled-2">
+      <caption webpage="untitled-2" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
+    </file>
+    <file name="u446-5.png" crc="4157775394" ref="untitled-2"/>
+    <file name="u452-4.png" crc="189855454" ref="untitled-2"/>
+    <file name="u455-4.png" crc="519832357" ref="untitled-2"/>
+    <file name="u461-5.png" crc="522754911" ref="untitled-2"/>
+    <file name="u458-4.png" crc="4201877407" ref="untitled-2"/>
+    <file name="u464-5.png" crc="371362124" ref="untitled-2"/>
+    <file name="dsc01933-crop-u638.jpg" crc="3838879689" seo="true" ref="untitled-5">
+      <caption webpage="untitled-5" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="untitled-5:untitled-7"/>
+    <file name="dsc01919-crop-u755.jpg" crc="4069272300" seo="true" ref="untitled-5">
+      <caption webpage="untitled-5" alt=""/>
+    </file>
+    <file name="1-crop-u2305.jpg" crc="347880797" seo="true" ref="untitled-5">
+      <caption webpage="untitled-5" alt=""/>
+    </file>
+    <file name="245-crop-u2333.jpg" crc="4209858732" seo="true" ref="untitled-5">
+      <caption webpage="untitled-5" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="untitled-5:untitled-7"/>
+    <file name="img_1050.jpg" crc="57184494" seo="true" ref="untitled-6">
+      <caption webpage="untitled-6" alt=""/>
+    </file>
+    <file name="img_10501324x1872.jpg" crc="4043000211" seo="true" ref="untitled-6">
+      <caption webpage="untitled-6" alt=""/>
+    </file>
+    <file name="1.jpg" crc="52949515" seo="true" ref="untitled-7">
+      <caption webpage="untitled-7" alt=""/>
+    </file>
+    <file name="2.jpg" crc="3993392931" seo="true" ref="untitled-7">
+      <caption webpage="untitled-7" alt=""/>
+    </file>
+    <file name="3.jpg" crc="229766015" seo="true" ref="untitled-7">
+      <caption webpage="untitled-7" alt=""/>
+    </file>
+    <file name="4.jpg" crc="297370125" seo="true" ref="untitled-7">
+      <caption webpage="untitled-7" alt=""/>
+    </file>
+    <file name="5-crop-u1946.jpg" crc="4136373344" seo="true" ref="untitled-7">
+      <caption webpage="untitled-7" alt=""/>
+    </file>
+    <file name="6-crop-u2045.jpg" crc="293754130" seo="true" ref="untitled-7">
+      <caption webpage="untitled-7" alt=""/>
+    </file>
+    <file name="7-crop-u2073.jpg" crc="233239268" seo="true" ref="untitled-7">
+      <caption webpage="untitled-7" alt=""/>
+    </file>
+    <file name="8-crop-u2101.jpg" crc="78255445" seo="true" ref="untitled-7">
+      <caption webpage="untitled-7" alt=""/>
+    </file>
+    <file name="10-crop-u2129.jpg" crc="4072117985" seo="true" ref="untitled-7">
+      <caption webpage="untitled-7" alt=""/>
+    </file>
+    <file name="11-crop-u2157.jpg" crc="4072167819" seo="true" ref="untitled-7">
+      <caption webpage="untitled-7" alt=""/>
+    </file>
+    <file name="12-crop-u2185.jpg" crc="100113449" seo="true" ref="untitled-7">
+      <caption webpage="untitled-7" alt=""/>
+    </file>
+    <file name="13-crop-u2213.jpg" crc="4001103666" seo="true" ref="untitled-7">
+      <caption webpage="untitled-7" alt=""/>
+    </file>
+    <file name="14-crop-u2241.jpg" crc="233018469" seo="true" ref="untitled-7">
+      <caption webpage="untitled-7" alt=""/>
+    </file>
+    <file name="15-crop-u2269.jpg" crc="10736190" seo="true" ref="untitled-7">
+      <caption webpage="untitled-7" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4016887804" seo="true" mt="1578554288702" redirect="true"/>
+  <file name="untitled-2.html" crc="169359841" seo="true" mt="1578553896041" redirect="true"/>
+  <file name="untitled-5.html" crc="215323670" seo="true" mt="1578584672731" redirect="true"/>
+  <file name="untitled-6.html" crc="536637571" seo="true" mt="1578554385179" redirect="true"/>
+  <file name="untitled-7.html" crc="3820938481" seo="true" mt="1578581050047" redirect="true"/>
+</manifest>
